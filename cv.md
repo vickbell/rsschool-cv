@@ -1,4 +1,4 @@
-![mountains](/img/mountan.png "Пейзаж с горами")
+![dog](YnTnhT8p_400x400.jpg "dog")
 # Viktor Beliakov
 ## Contacts
 * Location: Erevan, Armenia
