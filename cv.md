@@ -1,4 +1,4 @@
-![dog](YnTnhT8p_400x400.jpg "dog")
+![dog](2022-06-11_154518.png "dog")
 # Viktor Beliakov
 ## Contacts
 * Location: Erevan, Armenia
